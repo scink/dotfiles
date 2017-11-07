@@ -1,0 +1,1 @@
+adds alias 'yopta' that changes TTL to 65 for using smartphone with yota operator
